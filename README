@@ -3,7 +3,6 @@ A very simple script to convert between .bib files and .html
 It is unlikely to work on your bib file unless each bib key and value are on the same line - use it at your own risk!
 
 It runs like this:
-
 python allpubs.py "Tucker, S." /Users/sat/workspace/bib/read.bib
 
 Where the first param is your name as it appears in the bib file and the second is the path to the bib file. I make no promises that it will work on your bib file!
