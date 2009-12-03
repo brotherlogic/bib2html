@@ -1,0 +1,3 @@
+A very simple script to convert between .bib files and .html
+
+It is unlikely to work on your bib file unless each bib key and value are on the same line - use it at your own risk!
